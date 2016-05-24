@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/test/java/Pages/AbstractPage.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/test/java/Pages/Comment.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/test/java/Pages/Compare.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/test/java/Pages/CreateTheme.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/test/java/Pages/DeleteBasket.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/test/java/Pages/EnterBasket.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/test/java/Pages/LoginPage.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/test/java/Pages/Recall.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/test/java/Pages/Search.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/test/java/Pages/SendMessage.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/test/java/Steps/Steps.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/test/java/Test/AutoTests.java" charset="windows-1251" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

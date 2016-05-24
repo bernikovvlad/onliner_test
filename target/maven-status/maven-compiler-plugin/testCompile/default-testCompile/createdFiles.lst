@@ -1,0 +1,10 @@
+Pages\Search.class
+Test\AutoTests.class
+Pages\SendMessage.class
+Pages\Recall.class
+Pages\Comment.class
+Pages\CreateTheme.class
+Pages\LoginPage.class
+Pages\Compare.class
+Pages\DeleteBasket.class
+Pages\EnterBasket.class
